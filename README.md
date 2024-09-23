@@ -1,4 +1,4 @@
-👋 Hi there, Welcome to the Github of Phil Chandy \n
+👋 Hi there, Welcome to the Github of Phil Chandy 
 🎯 I'm actively looking for Full-Time Software Development / Full Stack Development roles.
 👩🏻‍🎓 I'm a BA Comp Sci student from Connecticut College in New London, CT.
 👩🏻‍💻 Programming Languages I have experience with are Java, Python, CSS, JavaScript, HTML, Typescript, Matlab and SQL
